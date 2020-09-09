@@ -9,7 +9,10 @@ essa ferramenta Somente deverá ser executada para fins Estudantis e Educacionai
 ![](https://github.com/Cyber-Root0/ZenSploit/blob/master/midia/print.png)
 
 ## Instruções De USO:
-![](https://www.youtube.com/watch?v=upBLuwAuwMI&feature=youtu.be)
+[![Watch the video](https://github.com/Cyber-Root0/ZenSploit/blob/master/midia/ExploitAdb.png)](https://www.youtube.com/watch?v=upBLuwAuwMI&feature=youtu.be)
+
+
+
 
 - Realizar o Download Do Repositorio
 - Abrir a Pasta e Executar o Arquivo "zensploit.bat"
