@@ -1,4 +1,1 @@
-
-CONECTADO A=222.237.80.189 ========== DATA: 20200908  ========== HORA: 10:23 
-CONECTADO A=187.50.47.99 ========== DATA: 20200908  ========== HORA: 10:24 
-CONECTADO A= ========== DATA: 20200908  ========== HORA: 11:00 
+(Aqui Ficara o Log De todas as Suas Coneções Efetuadas)
