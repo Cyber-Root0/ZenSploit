@@ -1,0 +1,13 @@
+touch /system/xbin/su
+chmod 0755 /system/xbin/su
+chcon u:object_r:system_file:s0 /system/xbin/su
+
+chmod 0700 /system/etc/launch_daemonsu.sh
+chcon u:object_r:su_exec:s0 /system/etc/launch_daemonsu.sh
+if [ `cat /system/etc/init.sec.boot.sh | grep daemonsu >/dev/null 2>&1; echo $?` -ne 0 ]; then
+  echo '/system/etc/launch_daemonsu.sh' >> /system/etc/init.sec.boot.sh
+fi
+
+sync
+reboot
+

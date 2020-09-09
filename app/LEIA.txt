@@ -1,0 +1,2 @@
+insira aqui o App a Ser instalado no Dispositovo Com o Nome:
+cliente.apk
