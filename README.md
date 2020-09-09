@@ -48,7 +48,7 @@ essa ferramenta Somente deverá ser executada para fins Estudantis e Educacionai
 
 ## Redes Sociais (Contato):
 
-- Facebook: https://www.facebook.com/obb.obb123
+
 - Email: boteistem@gmail.com
 
 
