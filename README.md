@@ -49,7 +49,7 @@ essa ferramenta Somente deverá ser executada para fins Estudantis e Educacionai
 ## Redes Sociais (Contato):
 
 
-- Email: boteistem@gmail.com
+- Email: boteistem@yandex.com
 
 
 
